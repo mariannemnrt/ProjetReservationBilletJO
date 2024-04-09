@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QrG0UjBNyyaj3kvYcEedEdQWKwzVVzxmDb2XtnGCtenJID2uuMkTa27y7EeTHWDmq0bVjdLq5xEfuoEBsMLjpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maria\\source\\repos\\ProjetReservationBilletJO\\ProjetReservationBilletJO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
