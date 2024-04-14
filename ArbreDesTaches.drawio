@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-14T08:20:17.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="48NnW4D2_70xitgMagGC" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-14T08:28:43.319Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="1kVwf1Yln7MVjkLzXnDv" version="24.2.1" type="github">
   <diagram name="Page-1" id="ORcW78pB8pA4RtSE9EpY">
     <mxGraphModel dx="1434" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -240,6 +240,75 @@
             <mxPoint x="770" y="640" as="sourcePoint" />
             <mxPoint x="930" y="480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TDH0PIO0VaUoWsepzdBz-71" value="Payer le billet " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TDH0PIO0VaUoWsepzdBz-72" value="Simuler le paiement " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TDH0PIO0VaUoWsepzdBz-73" value="générer clé billet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TDH0PIO0VaUoWsepzdBz-74" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="330" as="sourcePoint" />
+            <mxPoint x="1150" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDH0PIO0VaUoWsepzdBz-75" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TDH0PIO0VaUoWsepzdBz-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="220" as="sourcePoint" />
+            <mxPoint x="1200" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDH0PIO0VaUoWsepzdBz-76" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TDH0PIO0VaUoWsepzdBz-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="330" as="sourcePoint" />
+            <mxPoint x="1200" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDH0PIO0VaUoWsepzdBz-77" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TDH0PIO0VaUoWsepzdBz-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="140" as="sourcePoint" />
+            <mxPoint x="1150" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDH0PIO0VaUoWsepzdBz-78" value="générer billet " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TDH0PIO0VaUoWsepzdBz-79" value="administrer le site " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8BFFF;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TDH0PIO0VaUoWsepzdBz-80" value="Ajouter épreuves " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8BFFF;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TDH0PIO0VaUoWsepzdBz-82" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1750" y="340" as="sourcePoint" />
+            <mxPoint x="1750" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDH0PIO0VaUoWsepzdBz-83" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TDH0PIO0VaUoWsepzdBz-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1750" y="230" as="sourcePoint" />
+            <mxPoint x="1680" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDH0PIO0VaUoWsepzdBz-84" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TDH0PIO0VaUoWsepzdBz-81">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1750" y="340" as="sourcePoint" />
+            <mxPoint x="1680" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDH0PIO0VaUoWsepzdBz-85" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TDH0PIO0VaUoWsepzdBz-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1630" y="320" as="sourcePoint" />
+            <mxPoint x="1750" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDH0PIO0VaUoWsepzdBz-81" value="Visualiser clé utilisateur " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8BFFF;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
