@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-14T14:03:35.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="yDF6L3wqLGiux1yi18S9" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-14T14:14:22.879Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="iL5c4Y27N17yOhFMYuqa" version="24.2.1" type="github">
   <diagram name="Page-1" id="ORcW78pB8pA4RtSE9EpY">
     <mxGraphModel dx="1434" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -280,19 +280,16 @@
         <mxCell id="TDH0PIO0VaUoWsepzdBz-79" value="administrer le site " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8BFFF;" vertex="1" parent="1">
           <mxGeometry x="1350" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TDH0PIO0VaUoWsepzdBz-80" value="Ajouter épreuves " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8BFFF;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="390" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="TDH0PIO0VaUoWsepzdBz-82" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1520" y="610" as="sourcePoint" />
             <mxPoint x="1520" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TDH0PIO0VaUoWsepzdBz-83" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TDH0PIO0VaUoWsepzdBz-80">
+        <mxCell id="TDH0PIO0VaUoWsepzdBz-83" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1520" y="420" as="sourcePoint" />
-            <mxPoint x="1660" y="280" as="targetPoint" />
+            <mxPoint x="1560" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TDH0PIO0VaUoWsepzdBz-84" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TDH0PIO0VaUoWsepzdBz-81">
@@ -307,8 +304,8 @@
             <mxPoint x="1520" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TDH0PIO0VaUoWsepzdBz-81" value="Visualiser clé utilisateur " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8BFFF;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="585" width="120" height="60" as="geometry" />
+        <mxCell id="TDH0PIO0VaUoWsepzdBz-81" value="Visualiser le nombre de ventes par offre " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8BFFF;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TDH0PIO0VaUoWsepzdBz-86" value="Concatener clé utilisateur et clé billet " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="1500" y="140" width="120" height="60" as="geometry" />
@@ -340,8 +337,8 @@
             <mxPoint x="1550" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TDH0PIO0VaUoWsepzdBz-92" value="Visualiser les nombrs de ventes par offre " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8BFFF;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="490" width="120" height="60" as="geometry" />
+        <mxCell id="TDH0PIO0VaUoWsepzdBz-92" value="Se connecter " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8BFFF;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TDH0PIO0VaUoWsepzdBz-94" value="Afficher le montant dû " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="1150" y="290" width="120" height="60" as="geometry" />
