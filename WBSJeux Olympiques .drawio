@@ -1,59 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T07:55:55.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="SBC9_GMdnQxxx50a7pth" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-19T08:03:45.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="-KGKGZCdYJmnr519gevZ" version="24.2.5" type="github">
   <diagram name="Page-1" id="QU1jY9Tkd8GwuoRYvhUv">
     <mxGraphModel dx="794" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="j6DFhhQBlQ9trEZJzmF2-1" value="Réalisation du site de réservation Billets pour les Jeux Olympiques " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-1" value="Réalisation du site de réservation Billets pour les Jeux Olympiques " style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=14;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="330" y="30" width="300" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="j6DFhhQBlQ9trEZJzmF2-2" value="1. Vue (pages internet) " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-2" value="1. Vue (pages internet) " style="rounded=0;whiteSpace=wrap;html=1;align=center;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="10" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j6DFhhQBlQ9trEZJzmF2-3" value="2. Utilisateur " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-3" value="2. Utilisateur " style="rounded=0;whiteSpace=wrap;html=1;align=center;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="230" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j6DFhhQBlQ9trEZJzmF2-5" value="3. Panier " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-5" value="3. Panier " style="rounded=0;whiteSpace=wrap;html=1;align=center;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="470" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j6DFhhQBlQ9trEZJzmF2-6" value="Paiement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-6" value="4. Paiement" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="680" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j6DFhhQBlQ9trEZJzmF2-7" value="Billet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-7" value="5. Billet" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="880" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j6DFhhQBlQ9trEZJzmF2-8" value="1.1 Page Accueil" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-8" value="1.1 Page Accueil" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="10" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j6DFhhQBlQ9trEZJzmF2-9" value="1.2 Page article (épreuves)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-9" value="1.2 Page article (épreuves)" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="10" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j6DFhhQBlQ9trEZJzmF2-10" value="1.3 Page connexion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-10" value="1.3 Page connexion" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="10" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j6DFhhQBlQ9trEZJzmF2-11" value="1.4 Page utilisateur" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-11" value="1.4 Page utilisateur" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="10" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j6DFhhQBlQ9trEZJzmF2-12" value="1.5 Page paiement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-12" value="1.5 Page paiement" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="10" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j6DFhhQBlQ9trEZJzmF2-13" value="2.1 Créer un compte " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-13" value="2.1 Créer un compte " style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="230" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j6DFhhQBlQ9trEZJzmF2-14" value="2.2 Vérifier existence utilisateur" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-14" value="2.2 Vérifier existence utilisateur" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="230" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j6DFhhQBlQ9trEZJzmF2-15" value="2.3 Valider double authentification par email" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-15" value="2.3 Valider double authentification par email" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="230" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j6DFhhQBlQ9trEZJzmF2-16" value="2.4. Se connecter " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-16" value="2.4. Se connecter " style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="230" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j6DFhhQBlQ9trEZJzmF2-17" value="2.5 Générer clé utilisateur " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-17" value="2.5 Générer clé utilisateur " style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="230" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j6DFhhQBlQ9trEZJzmF2-18" value="2.6 Implémenter table user" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-18" value="2.6 Implémenter table user" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="230" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-19" value="3.1 créer panier " style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="470" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-20" value="3.2 Ajouter au panier " style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="470" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-21" value="3.3 Calculer total dû" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="470" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-22" value="3.4 Passer au paiement" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="470" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-23" value="&lt;div align=&quot;left&quot;&gt;4.1 Entrer informations paiement&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-24" value="4.2 Effectuer paiement (simuler)" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-25" value="&lt;div align=&quot;left&quot;&gt;4.3 Générer clé paiement&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-26" value="&lt;div align=&quot;left&quot;&gt;4.4 Implémenter table billets vendus &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-27" value="&lt;div align=&quot;left&quot;&gt;5.1 Créer Billet&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="880" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-28" value="&lt;div&gt;5.2 Créer QRCode&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="880" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-29" value="5.3 Implémenter table user-Tickets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
