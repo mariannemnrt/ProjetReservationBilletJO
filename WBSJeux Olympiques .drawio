@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T10:06:04.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="z26lplYbTElvBe0Bp1qy" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T08:49:04.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="Y7jDioHWwKmRxbJYEvE-" version="24.2.5" type="github">
   <diagram name="Page-1" id="QU1jY9Tkd8GwuoRYvhUv">
-    <mxGraphModel dx="1379" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2232" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="j6DFhhQBlQ9trEZJzmF2-29" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;5.3 Implémenter table user-Tickets&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;5.3.1 Mise à jour de la table Tickets&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacingLeft=8;spacingRight=8;verticalAlign=top;fillColor=#CCFFFF;" vertex="1" parent="1">
           <mxGeometry x="970" y="600" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="j6DFhhQBlQ9trEZJzmF2-30" value="&lt;div align=&quot;left&quot;&gt;1.6 Page administrateur &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1.6.1 Afficher un récapitulatif des ventes &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1300" width="190" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
